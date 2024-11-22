@@ -27,7 +27,7 @@ def calculate_resonance(R, L, C):
 # Streamlit Web App
 
 
-st.title("2204A21052-PS3")
+st.title("2205A21052-PS3")
 st.write("calculate resonance frequency(FR),band width(BW),quality factor(Q),upper cutoff frequency(FU),and lower frequency(FL)based on R,L,andCvalues for series resonance circuit")
 # Create columns for input and output
 col1, col2 = st.columns(2)
